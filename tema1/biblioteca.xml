@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros_biblioteca>
+<libro>
+    <name>Los secretos de Youtube</name>
+    <price>9.95€</price>
+    <description>
+   Libro creado por un influencer famoso llamado TheGrefg
+   </description>
+</libro>
+<libro>
+    <name>Wigetta. Un viaje mágico</name>
+    <price>11.25€</price>
+    <description>
+    Libro creado por dos de los youtubers más famosos e importantes del panorama
+    </description>
+</libro>
+</libros_biblioteca>
