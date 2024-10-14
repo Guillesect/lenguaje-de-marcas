@@ -9,3 +9,4 @@ Ejercicio | Descripción
 [Ejercicio 3 html](/tema1/Ejercicio3.html). |  Usa el texto mostrado y dale el formato siguiendo las indicaciones: Crea una cabecera h1 para “Curriculum Vitae”, Usa una cabecera h2 Cada apartado, Coloca una etiqueta “strong” para los datos
 [Ejercicio 4 html](/tema1/Ejercicio4.html). |  Crea una página html que muestre el siguiente aspecto:
 [Ejercicio 5 html](/tema1/Ejercicio5.html). |  Crea una página que contenga varios párrafos, con distinta alineación y con encabezados.
+[Ejercicio 6 html](/tema1/Ejercicio6.html). |  Modifica la página anterior para incluir distintos formatos de texto.
