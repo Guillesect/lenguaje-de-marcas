@@ -10,3 +10,4 @@ Ejercicio | Descripción
 [Ejercicio 4 html](/tema1/Ejercicio4.html). |  Crea una página html que muestre el siguiente aspecto:
 [Ejercicio 5 html](/tema1/Ejercicio5.html). |  Crea una página que contenga varios párrafos, con distinta alineación y con encabezados.
 [Ejercicio 6 html](/tema1/Ejercicio6.html). |  Modifica la página anterior para incluir distintos formatos de texto.
+[Ejercicio 7 html](/tema1/Ejercicio7.html). |  Cambia los atributos de la página para cambiar el fondo y color. Prueba con las distintas opciones. 
