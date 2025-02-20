@@ -14,4 +14,4 @@ Ejercicio | Descripción
 [Ejercicio 8 html](/tema1/Ejercicio8.html). |  Haz el ejercicio número 6 de “uniwebsidad” del capítulo 4 (aparece al final del artículo): https://uniwebsidad.com/libros/xhtml/capitulo-4/enlaces-basicos
 [Ejercicio 10 html](/tema1/Ejercicio10.html). | Write a HTML page with the follow two levels nested list 
 [Página web](https://guillesect.github.io/pagina-web.github.io/). | Haz una página web explicando HTML, CSS y SVG
-[Página web CSS]([https://guillesect.github.io/pagina-web.github.io/](https://guillesect.github.io/pagCSS/)). | Haz una página web de CSS sobre un tema.
+[Página web CSS](https://guillesect.github.io/pagCSS/). | Haz una página web de CSS sobre un tema.
