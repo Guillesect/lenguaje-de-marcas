@@ -15,3 +15,4 @@ Ejercicio | Descripción
 [Ejercicio 10 html](/tema1/Ejercicio10.html). | Write a HTML page with the follow two levels nested list 
 [Página web](https://guillesect.github.io/pagina-web.github.io/). | Haz una página web explicando HTML, CSS y SVG
 [Página web BOOTSTRAP](https://guillesect.github.io/pagCSS/). | Haz una página web sobre un tema, usando BOOTSTRAP.
+[Ejercicio 1 html](/tema2/Ejercicio1.html). |  Crea un documento HTML desde cero con tu CV. Crea una hoja de estilos CSS llamada MyStyle.CSS con los siguientes requisitos.
