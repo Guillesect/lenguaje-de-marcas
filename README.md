@@ -20,4 +20,5 @@ Ejercicio | Descripción
 ----------|-------------
 [Ejercicio 1 CSS](/tema2/Ejercicio1.html). |  Crea un documento HTML desde cero con tu CV. Crea una hoja de estilos CSS llamada MyStyle.CSS con los siguientes requisitos.
 [Ejercicio 2 CSS](/tema2/ejercicio2/index.html). |  En este ejercicio, tendrás la oportunidad de superar los desafíos de maquetar una página web con CSS. Comenzarás con el archivo HTML que aparece a la izquierda y agregarás todo el HTML y CSS necesarios para crear el diseño de la derecha.
-[Ejercicio 3 CSS](/tema2/ejercicio3/ejercicio.html). |  En este ejercicio, tendrás la oportunidad de superar los desafíos de maquetar una página web con CSS. Comenzarás con el archivo HTML que aparece a la izquierda y agregarás todo el HTML y CSS necesarios para crear el diseño de la derecha.
+[Ejercicio 3 CSS](/tema2/ejercicio3/ejercicio.html). |  Modifica la página de w3schools para que muestre la imagen repetida en el eje y. Además evita que haga scroll. Modifica también la posición de la imagen para que aparezca a la izquierda y el texto a la derecha.
+[Ejercicio 4 CSS](/tema2/ejercicio4.html). |  Modifica la página de w3schools para que muestre un menú horizontal. Modifica el color de todos los elementos para que tengan un color de texto blanco y fondo gris oscuro al pasar el ratón.
