@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.horizontal-menu {
+  display: flex; /* Convierte el menú en horizontal */
+  background-color: #333; /* Fondo oscuro */
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.horizontal-menu a {
+  color: white; /* Texto en blanco */
+  background-color: #333; /* Fondo oscuro */
+  padding: 12px 20px;
+  text-decoration: none;
+  display: block;
+}
+
+.horizontal-menu a:hover {
+  background-color: #555; /* Cambio de color al pasar el ratón */
+}
+
+.horizontal-menu a.active {
+  background-color: #04AA6D; /* Color para el elemento activo */
+}
+</style>
+</head>
+<body>
+
+<h1>Horizontal Menu</h1>
+
+<ul class="horizontal-menu">
+  <li><a href="#" class="active">Home</a></li>
+  <li><a href="#">Link 1</a></li>
+  <li><a href="#">Link 2</a></li>
+  <li><a href="#">Link 3</a></li>
+  <li><a href="#">Link 4</a></li>
+</ul>
+
+</body>
+</html>
