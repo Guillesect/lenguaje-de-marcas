@@ -20,4 +20,4 @@ Ejercicio | Descripción
 ----------|-------------
 [Ejercicio 1 CSS](/tema2/Ejercicio1.html). |  Crea un documento HTML desde cero con tu CV. Crea una hoja de estilos CSS llamada MyStyle.CSS con los siguientes requisitos.
 [Ejercicio 2 CSS](/tema2/ejercicio2/index.html). |  En este ejercicio, tendrás la oportunidad de superar los desafíos de maquetar una página web con CSS. Comenzarás con el archivo HTML que aparece a la izquierda y agregarás todo el HTML y CSS necesarios para crear el diseño de la derecha.
-[Ejercicio 3 CSS](/tema2/ejercicio3/ejercicio.html). |  En este ejercicio, tendrás la oportunidad de superar los desafíos de maquetar una página web con CSS. Comenzarás con el archivo HTML que aparece a la izquierda y agregarás todo el HTML y CSS necesarios para crear el diseño de la derecha.
+[Ejercicio 3 CSS](/tema2/ejercicio/ejercicio.html). |  En este ejercicio, tendrás la oportunidad de superar los desafíos de maquetar una página web con CSS. Comenzarás con el archivo HTML que aparece a la izquierda y agregarás todo el HTML y CSS necesarios para crear el diseño de la derecha.
