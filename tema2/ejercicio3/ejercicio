@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url("img_tree.png"); /* Imagen de fondo */
+  background-repeat: repeat-y; /* Repetir solo en el eje Y */
+  background-position: left top; /* Imagen alineada a la izquierda */
+  background-attachment: fixed; /* Fijar la imagen de fondo */
+  overflow: hidden; /* Evitar el scroll */
+  display: flex;
+  align-items: center;
+  padding-left: 250px; /* Espacio para el texto a la derecha */
+  height: 100vh;
+}
+
+.content {
+  max-width: 600px;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  background: rgba(255, 255, 255, 0.8); /* Fondo semitransparente */
+  padding: 20px;
+  border-radius: 10px;
+}
+</style>
+</head>
+<body>
+
+<div class="content">
+  <h1>The background-attachment Property</h1>
+
+  <p>The background-attachment property specifies whether the background image should scroll or be fixed (will not scroll with the rest of the page).</p>
+
+  <p><strong>Tip:</strong> If you do not see any scrollbars, try to resize the browser window.</p>
+
+  <p>The background-image scrolls. Try to scroll down the page.</p>
+  <p>The background-image scrolls. Try to scroll down the page.</p>
+</div>
+
+</body>
+</html>
