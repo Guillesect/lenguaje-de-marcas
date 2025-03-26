@@ -27,3 +27,9 @@ Ejercicio | Descripción
 [Ejercicio 4 CSS](/tema2/ejercicio4.html). |  Modifica la página de w3schools para que muestre un menú horizontal. Modifica el color de todos los elementos para que tengan un color de texto blanco y fondo gris oscuro al pasar el ratón.
 [Ejercicio 5 CSS](/tema2/ejercicio5.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
 [Ejercicio 6 CSS](tema2/Ejercicio6.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
+[Ejercicio 7 CSS](tema2/ejer7.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
+[Ejercicio 8 CSS](tema2/ejer8.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
+[Ejercicio 9 CSS](tema2/ejercicio9.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
+[Ejercicio 10 CSS](tema2/Ejercicio10.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
+[Ejercicio 11 CSS](tema2/ejercicio11.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
+[Ejercicio 11 CSS](tema2/Ejercicio12.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
