@@ -27,9 +27,12 @@ Ejercicio | Descripción
 [Ejercicio 4 CSS](/tema2/ejercicio4.html). |  Modifica la página de w3schools para que muestre un menú horizontal. Modifica el color de todos los elementos para que tengan un color de texto blanco y fondo gris oscuro al pasar el ratón.
 [Ejercicio 5 CSS](/tema2/ejercicio5.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
 [Ejercicio 6 CSS](tema2/Ejercicio6.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
-[Ejercicio 7 CSS](tema2/ejer7.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
-[Ejercicio 8 CSS](tema2/ejer8.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
-[Ejercicio 9 CSS](tema2/ejercicio9.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
-[Ejercicio 10 CSS](tema2/Ejercicio10.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
-[Ejercicio 11 CSS](tema2/ejercicio11.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
-[Ejercicio 11 CSS](tema2/Ejercicio12.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
+[Ejercicio 7 CSS](tema2/ejer7.html). |  En grupo observa las siguientes ejercicios y explica las propiedades que se han utilizado para el posicionamiento de los diferentes elementos que componen la página
+[Ejercicio 8 CSS](tema2/ejer8.html). |  En grupo observa las siguientes ejercicios y explica las propiedades que se han utilizado para el posicionamiento de los diferentes elementos que componen la página
+[Ejercicio 9 CSS](tema2/ejercicio9.html). |  Usa posicionamiento absoluto y resuelve los siguientes ejercicios
+[Ejercicio 10 CSS](tema2/Ejercicio10.html). |  Usa flexbox y resuelve los siguientes 3 primeros ejercicios
+[Ejercicio 11 CSS](tema2/ejercicio11.html). |  Crea una página que incluya una barra de navegación con tres opciones y una galería de imágenes como la del ejemplo de w2schools. Haz uso de mediaquery:
+https://www.w3schools.com/css/css_navbar.asp
+https://www.w3schools.com/css/css_image_gallery.asp
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+[Ejercicio 12 CSS](tema2/Ejercicio12.html). |  Crea una web adaptativa (responsibe) como la mostrada en w3school. La web debe contener una cabecera, barra de navegación, diseño a dos columnas adaptable y un pie de página. Haz uso de mediaquery. Puedes inventar el contenido:
