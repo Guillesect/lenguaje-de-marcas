@@ -26,3 +26,4 @@ Ejercicio | Descripción
 [Ejercicio 3 CSS](/tema2/ejercicio3/ejercicio.html). |  Modifica la página de w3schools para que muestre la imagen repetida en el eje y. Además evita que haga scroll. Modifica también la posición de la imagen para que aparezca a la izquierda y el texto a la derecha.
 [Ejercicio 4 CSS](/tema2/ejercicio4.html). |  Modifica la página de w3schools para que muestre un menú horizontal. Modifica el color de todos los elementos para que tengan un color de texto blanco y fondo gris oscuro al pasar el ratón.
 [Ejercicio 5 CSS](/tema2/ejercicio5.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
+[Ejercicio 6 CSS](tema2/Ejercicio_6.html). |  Modifique el código en W3Schools para obtener la siguiente tabla.
