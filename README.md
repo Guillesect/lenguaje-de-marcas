@@ -17,7 +17,7 @@ Ejercicio | Descripción
 ## Bootstrap
 Ejercicio | Descripción
 ----------|-------------
-[Página web BOOTSTRAP](https://guillesect.github.io/pagCSS/). | Haz una página web sobre un tema, usando BOOTSTRAP.
+[Página web BOOTSTRAP](https://guillesect.github.io/bootstrap/). | Haz una página web sobre un tema, usando BOOTSTRAP.
 ## TEMA 2 - CSS
 Ejercicio | Descripción
 ----------|-------------
