@@ -36,4 +36,4 @@ Ejercicio | Descripción
 ## Bootstrap
 Ejercicio | Descripción
 ----------|-------------
-[Página web BOOTSTRAP]([https://guillesect.github.io/bootstrap/](https://guillesect.github.io/Pr-ctica-XML/)). | Haz una página web sobre un cuestionario con XML/DTD.
+[Página web BOOTSTRAP](https://guillesect.github.io/Pr-ctica-XML/). | Haz una página web sobre un cuestionario con XML/DTD.
