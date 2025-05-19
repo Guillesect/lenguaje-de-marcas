@@ -33,3 +33,7 @@ Ejercicio | Descripción
 [Ejercicio 10 CSS](tema2/Ejercicio10.html). |  Usa flexbox y resuelve los siguientes 3 primeros ejercicios
 [Ejercicio 11 CSS](tema2/ejercicio11.html). |  Crea una página que incluya una barra de navegación con tres opciones y una galería de imágenes como la del ejemplo de w2schools. Haz uso de mediaquery: https://www.w3schools.com/css/css_navbar.asp https://www.w3schools.com/css/css_image_gallery.asp https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 [Ejercicio 12 CSS](tema2/Ejercicio12.html). |  Crea una web adaptativa (responsibe) como la mostrada en w3school. La web debe contener una cabecera, barra de navegación, diseño a dos columnas adaptable y un pie de página. Haz uso de mediaquery. Puedes inventar el contenido:
+## Bootstrap
+Ejercicio | Descripción
+----------|-------------
+[Página web BOOTSTRAP]([https://guillesect.github.io/bootstrap/](https://guillesect.github.io/Pr-ctica-XML/)). | Haz una página web sobre un cuestionario con XML/DTD.
