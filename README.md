@@ -36,4 +36,5 @@ Ejercicio | Descripción
 ## XML/DTD
 Ejercicio | Descripción
 ----------|-------------
-[Página web cuestionario](https://guillesect.github.io/Pr-ctica-XML/). | Haz una página web sobre un cuestionario con XML/DTD.
+[Página web cuestionario](https://guillesect.github.io/Pr-ctica-XML/). | Haz una página web sobre un cuestionario con XML/DTD. 
+[Repositorio](https://github.com/Guillesect/Pr-ctica-XML). | Repositorio de la página web sobre un cuestionario con XML/DTD.
